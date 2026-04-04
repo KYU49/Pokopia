@@ -1,4 +1,5 @@
 ---
+sidebar_position: 5
 title: 畑の仕様と自動化
 ---
 
