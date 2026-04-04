@@ -4,7 +4,7 @@ title: 水の仕様
 ---
 
 ## 水流と広がる距離
-
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">水流調べました。<br />高い水位の水は25マス<br />低い水位の水と高いマグマはどちらも12マス<br />低いマグマは6マス<br />1番下は低い水位の水を12マスから落として23マス<br />写って無いですが、高い水位の水は25マスから落として49マスでした。落としたマスから水流の強さ分だけ延伸するみたいです。 <a href="https://t.co/d9VkVjXfUC">pic.twitter.com/d9VkVjXfUC</a></p>&mdash; 🇩 🇪 🇲 🇪 (@Deme_DQX) <a href="https://twitter.com/Deme_DQX/status/2033937753050935441?ref_src=twsrc%5Etfw">March 17, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 ## 水流と滝への侵入
