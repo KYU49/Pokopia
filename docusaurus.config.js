@@ -15,11 +15,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'ぽこポケ学会',
   url: 'https://kyu49.github.io',
-  baseUrl: '/Pokopia/',
+  baseUrl: '/',
   organizationName: 'kyu49',
   projectName: 'kyu49.github.io',
   deploymentBranch: 'main',
-  trailingSlash: false,
+  trailingSlash: true,
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
