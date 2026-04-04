@@ -17,8 +17,8 @@ const config = {
   url: 'https://kyu49.github.io',
   baseUrl: '/Pokopia/',
   organizationName: 'kyu49',
-  projectName: 'kyu49.github.io',
-  deploymentBranch: 'main',
+  projectName: 'Pokopia',
+  deploymentBranch: 'gh-pages',
   trailingSlash: true,
   favicon: 'img/favicon.ico',
 
