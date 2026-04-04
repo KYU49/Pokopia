@@ -38,7 +38,12 @@ pull requestがよく分からない場合は[issues](https://github.com/KYU49/P
 - **書き方**: `[テキスト](/docsからのパス#ID)`
 - **例**: `[ピカチュウの技一覧](/pokemon/pikachu#waza-list)`
 
----
+## Twitterの埋め込み
+* 投稿の右上の「…」(もっと見る)を押す。
+* 「`</>` ポストを埋め込む」を選択。
+* Embedded Postを選択し、「Copy Code」。
+* そのまま貼り付ければOK。
+
 
 ## 便利なコンポーネント
 
