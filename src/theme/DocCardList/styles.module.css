@@ -1,0 +1,28 @@
+/* カードの装飾をすべて剥ぎ取る */
+.card {
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+  padding: 0.5rem 0 !important; /* 上下の余白だけ残す */
+  min-height: auto !important; /* 高さを内容に合わせる */
+  border-bottom: 1px solid var(--ifm-color-emphasis-200) !important; /* 行の区切り線 */
+  border-radius: 0 !important;
+  transition: none !important;
+}
+
+/* ホバー時の浮き上がりも消す */
+.card:hover {
+  border-color: var(--ifm-color-primary) !important;
+  background-color: var(--ifm-color-emphasis-100) !important;
+}
+
+/* アイコン（📄とか）を消す、または小さくする */
+.card :global(.text--truncate) {
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+
+/* 説明文（description）を消して一行にしたい場合 */
+.card p {
+  display: none !important;
+}
