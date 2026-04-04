@@ -1,0 +1,8 @@
+{
+	"label": "回路の基礎",
+	"position": 3,
+	"link": {
+		"type": "generated-index",
+		"description": "回路の最小構成をまとめます。組み合わせて作った複雑な構造物は「自動化など」に記載。"
+	}
+}

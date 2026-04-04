@@ -89,7 +89,7 @@ const config = {
               },
               {
                 label: 'ポケモン学会について',
-                to: '/intro',
+                to: '/index',
               },
             ],
           },

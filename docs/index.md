@@ -1,43 +1,33 @@
-# Tutorial Intro
+---
+sidebar_position: 1
+title: ぽこあポケモン学会について
+---
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# ぽこあポケモン学会 概要
 
-## Getting Started
+本プロジェクトは、ぽこあポケモンの仕様、検証結果、回路関係に関する情報、およびその発見者や発見経緯をまとめたオープンソース・プロジェクトです。  
 
-Get started by **creating a new site**.
+---
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 運用ルール
 
-### What you'll need
+ぽこあポケモンに関連しないコンテンツの宣伝や収益を得るための広告を載せることを禁止します。  
+不適切なコンテンツやその他の理由に基づいて、管理者(KYU)がロールバックすることがあります。  
+埋め込まれたコンテンツを除き、このサイトに投稿した内容には、AGPLライセンスが適用されます。  
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+---
 
-## Generate a new site
+## Contributors
 
-Generate a new Docusaurus site using the **classic template**.
+本学会の資料作成および運営に関わっているメンバーです。
 
-The classic template will automatically be added to your project after you run the command:
+- **KYU** (X: [@kyuphd](https://x.com/kyuphd)) - 本サイト作成・管理, クロック回路の発見者
+- **あなたも参加しませんか？**: 本サイトはGitHubで公開されています。修正や追加の提案（Pull Request）を歓迎します。
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+---
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## ライセンスと著作権
+本サイトはファン作成の非公式サイトであり、株式会社ポケモン、任天堂株式会社、株式会社クリーチャーズ、株式会社コーエーテクモホールディングス、および株式会社ゲームフリークとは一切関係ありません。  
+本サイトの独自コンテンツは **AGPL-3.0** ライセンスの下で公開されています。  
+埋め込まれたYouTube動画、Twitter(X)の投稿などの著作権は、それぞれの投稿者およびプラットフォームの規約に従います。これらは当サイトのAGPLライセンスの対象外です。  
+本サイトは **Docusaurus** (MIT License) を使用して構築されています。  
