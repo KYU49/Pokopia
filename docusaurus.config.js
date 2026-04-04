@@ -15,7 +15,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'ぽこポケ学会',
   url: 'https://kyu49.github.io',
-  baseUrl: '/pokopia/',
+  baseUrl: '/',
   organizationName: 'kyu49',
   projectName: 'kyu49.github.io',
   deploymentBranch: 'main',
