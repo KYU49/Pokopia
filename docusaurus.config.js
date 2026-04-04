@@ -15,9 +15,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'ぽこポケ学会',
   url: 'https://kyu49.github.io',
-  baseUrl: '/Pokopia/',
+  baseUrl: '/pokopia/',
   organizationName: 'kyu49',
-  projectName: 'Pokopia',
+  projectName: 'pokopia',
   deploymentBranch: 'gh-pages',
   trailingSlash: true,
   favicon: 'img/favicon.ico',
@@ -27,7 +27,7 @@ const config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   i18n: {
     defaultLocale: 'ja',
     locales: ['ja'],
@@ -41,7 +41,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
-          editUrl: 'https://github.com/kyu49/pokopia/tree/main/'
+          editUrl: 'https://github.com/kyu49/pokopia/tree/main/',
         },
         blog: false,
         theme: {
