@@ -12,6 +12,8 @@ title: ぽこあポケモン学会について
 
 ---
 
+※スマホの場合、左上のボタンからも記事リストを表示できます。
+
 import DocCardList from '@theme/DocCardList';
 
 <DocCardList />

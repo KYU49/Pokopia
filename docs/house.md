@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: すみか
+title: 自作のお家
 ---
 
 ## キットの家との違い
@@ -8,6 +8,8 @@ title: すみか
 キットの家は「はっぱのおへや」のように移動時にロードが挟まる家です。  
 それに対して、ぽこあポケモンでは、壁と扉によって仕切られた空間も家として見なされます。  
 キットの家と異なり、ポケモンの大きさを問わず、1つの家に4匹まで住むことができます。
+
+---
 
 ## 家と見なされる条件
 * 1つ以上の扉を含む、壁で囲まれた空間がある。
@@ -27,6 +29,9 @@ title: すみか
 * 扉が複数あっても良い。
 * 建物間で扉の共有はできないが、壁は共有しても良い。
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">* 別に天井が塞がってても構わない。<br />* なんなら、上にもう一個家があっても、両方家判定される。<br /><br />超過密住宅を作ろう！！<a href="https://twitter.com/hashtag/%E3%81%BD%E3%81%93%E3%81%82%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#ぽこあポケモン</a> <a href="https://t.co/QJRngMKBiY">pic.twitter.com/QJRngMKBiY</a></p>&mdash; KYU (ポケモン管理アプリ『ポケマネ』、『投稿すっかい』開発者) (@kyuphd) <a href="https://twitter.com/kyuphd/status/2030234016071536786?ref_src=twsrc%5Etfw">March 7, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+---
 
 ## 家具の認識条件
 家と見なされるための条件用の家具とは別に、周囲にある家具も住心地に影響を与えます。  
@@ -39,15 +44,35 @@ title: すみか
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">n番煎じだとは思いますが、地表面に対する家具の認識高さ制限を調べました。<br />地表面の段ボールを左の家では認識し、右の家では認識しません。<br />距離の影響が複合的に関わるかは確認していませんが、地表から4マス目までに床があったほうが良いようです。<br />なお、階段はなくてもOK。<a href="https://twitter.com/hashtag/%E3%81%BD%E3%81%93%E3%81%82%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#ぽこあポケモン</a> <a href="https://t.co/ErRhuatBxb">pic.twitter.com/ErRhuatBxb</a></p>&mdash; KYU (ポケモン管理アプリ『ポケマネ』、『投稿すっかい』開発者) (@kyuphd) <a href="https://twitter.com/kyuphd/status/2033077025381204315?ref_src=twsrc%5Etfw">March 15, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-
 ### 光源など
-明るい判定されるための光源については判定が通常の家具と異なるようです。
+明るい判定されるための光源については判定が通常の家具と異なるようです(要調査)。  
+
+---
 
 ## メタモンの家
+### 仕様
+:::warning[書きかけ]
+この項目は書きかけです。間違いを含む可能性があります。
+:::
+* 旗の布が向いている位置にメタモンがワープする。
+* 屋根に置くキットの家と異なり、家の中などに置く必要がある。
 
 
 ### ポケモンセンターにワープさせる方法
+* ポケセンの地下に自分の家を埋め込むと、直接ポケセン前にワープが可能。
+* メタモンの旗の周囲4マスは当たり判定がある家具で埋め尽くす必要がある。
+* たくさん家具を置けば、メタモンの住み心地最高も可能。
+* 自分の家がない場合もポケセンに移動するが、この方法の方が1メッセージ少なく、住心地も上げることができる。
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">内装を2×2から8×8に拡張して家具を置いたところ、住み心地を最高まで上げれることを確認しました！<br />ポケセンまでの道は完全に塞がってますが最高まで上げれるみたいです<br /><br />また部屋の中が空洞でも、メタモンの旗の周囲4マスを埋めていれば自宅ナビで地上に出れたので埋めなくても大丈夫そうです！ <a href="https://t.co/Ms1bo9O1Ej">pic.twitter.com/Ms1bo9O1Ej</a></p>&mdash; 真冬 (@winter8636) <a href="https://twitter.com/winter8636/status/2031737218877067477?ref_src=twsrc%5Etfw">March 11, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+---
 
 ## その他Tips
-* 家の中に作られたポケモンの生息地にも住居判定が発生するため、たとえば床面積2x2の家の中に「みなぎるサイコパワー (シンプルなクッション + すいしょうだま)」と「のんびり写真を振り返り (タブレット + パーティーカップ)」を家具として設置すると、1つの家に4匹 + 2匹住むことが可能になります。
+* 家の中に作られたポケモンの生息地にも住居判定が発生する。
+	- たとえば床面積2x2の家の中に以下を設置すると、1つの家に **4匹 + 2匹** 住むことが可能になる。
+		- みなぎるサイコパワー (シンプルなクッション + すいしょうだま)
+		- のんびり写真を振り返り (タブレット + パーティーカップ)
+* うるおいが足りない場合
+	- 家の中にちょすいで水を直接入れてやると効率よく上がる。
+	- それでも足りない場合は、このはでくさを生やすと効率が良い。
