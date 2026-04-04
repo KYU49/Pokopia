@@ -22,6 +22,7 @@ title: 畑の仕様と自動化
 ## さらさらいわの仕様
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「さらさらいわ」は５秒周期に10マスを選んで乾燥させる形式か。この仮説だと一つの岩だけだと平均は2分10秒で55%の確率で全部枯れる。90%を超えるには３分かかる。検証範囲では「さらさらいわ」範囲内に植物と地面が両方含まれてるかどうかは確率に影響しないっぽい <a href="https://twitter.com/hashtag/%E3%81%BD%E3%81%93%E3%83%9D%E3%82%B1?src=hash&amp;ref_src=twsrc%5Etfw">#ぽこポケ</a> <a href="https://t.co/hKjxyggaj2">https://t.co/hKjxyggaj2</a> <a href="https://t.co/vcpgBb0lyY">pic.twitter.com/vcpgBb0lyY</a></p>&mdash; あみにし (@aminisi) <a href="https://twitter.com/aminisi/status/2037713234124566849?ref_src=twsrc%5Etfw">March 28, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「さらさらいわ」は４マスの高さに影響がある。<br />[+1]岩の一つ上の高さ<br />[0]岩と同じ高さ<br />[-1]岩が置かれてる床と同じ高さ<br />[-2]さらにその下<br />地面と植物はお互いに枯れ状態を伝播し、[-2]に植物があるときは[-3]の地面も枯れるし[+1]の地面の上の[+2]の植物も枯れる。プランターは伝播しない <a href="https://twitter.com/hashtag/%E3%81%BD%E3%81%93%E3%83%9D%E3%82%B1?src=hash&amp;ref_src=twsrc%5Etfw">#ぽこポケ</a> <a href="https://t.co/alBz3zCw7A">pic.twitter.com/alBz3zCw7A</a></p>&mdash; あみにし (@aminisi) <a href="https://twitter.com/aminisi/status/2037505471075303895?ref_src=twsrc%5Etfw">March 27, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## 段を使った水流式
 野菜が枯れた植物に引っかからないように段差を付ける方式。  
