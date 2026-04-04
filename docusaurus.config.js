@@ -15,10 +15,10 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'ぽこポケ学会',
   url: 'https://kyu49.github.io',
-  baseUrl: '/',
+  baseUrl: '/pokopia/',
   organizationName: 'kyu49',
   projectName: 'kyu49.github.io',
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
   trailingSlash: false,
   favicon: 'img/favicon.ico',
 
