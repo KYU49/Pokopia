@@ -8,10 +8,18 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+
+// 参考: https://docusaurus.io/docs/deployment#deploying-to-github-pages
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ぽこあポケモン学会',
-  tagline: 'Dinosaurs are cool',
+  title: 'ぽこポケ学会',
+  url: 'https://kyu49.github.io',
+  baseUrl: '/',
+  organizationName: 'kyu49',
+  projectName: 'kyu49.github.io',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -19,25 +27,10 @@ const config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
   onBrokenLinks: 'throw',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'ja',
+    locales: ['ja'],
   },
 
   presets: [
@@ -47,11 +40,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           routeBasePath: '/',
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/kyu49/pokopia/tree/main/'
         },
         blog: false,
         theme: {
@@ -64,13 +54,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Home',
+        title: 'ぽこポケ学会',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -80,7 +68,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '資料一覧',
           },
           {
             href: 'https://github.com/kyu49/pokopia',
@@ -93,46 +81,39 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'コンテンツ',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '攻略トップ',
+                to: '/',
+              },
+              {
+                label: 'ポケモン学会について',
+                to: '/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '法的情報 / License',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'AGPL-3.0 License',
+                href: 'https://github.com/kyu49/pokopia/blob/main/LICENSE',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'ソースコード (GitHub)',
+                href: 'https://github.com/kyu49/pokopia',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        // <br /> を使うためにバッククォート( ` )で囲む
+        copyright: `
+          Copyright © ${new Date().getFullYear()} ぽこあポケモン学会.<br />
+          本サイトの独自コンテンツ（文章・構成・プログラム）は <b>AGPL-3.0</b> ライセンスの下で公開されています。<br />
+          ただし、引用・埋め込みされたTwitter(X)の投稿、YouTube動画、およびゲーム内画像の著作権は、それぞれの権利所有者に帰属します。<br />
+          Built with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> (MIT License).
+        `,
       },
       prism: {
         theme: prismThemes.github,
