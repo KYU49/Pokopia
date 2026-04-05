@@ -18,6 +18,11 @@ import DocCardList from '@theme/DocCardList';
 
 <DocCardList />
 
+:::danger[攻略サイト運営の方へ]
+このサイトのコンテンツの一部はAGPLライセンスで提供されています。  
+コピペを行った場合、ライセンスが強制的に継承されることにご留意ください。
+:::
+
 ---
 
 ## 運用ルール
