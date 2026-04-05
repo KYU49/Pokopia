@@ -6,5 +6,17 @@ title: ちらかすの仕様と自動化
 ## 
 
 
-## ちらかすの自動化
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ちらかすを最高効率で自動回収するシステム完成しました！<br />フタつきまどを交互に開閉することで素材の湧き位置を常時確保してます<br /><br />装置あり or なし で1時間ずつ飛ばしなしで放置してドロップ率もほぼ同じでした<a href="https://twitter.com/hashtag/%E3%81%BD%E3%81%93%E3%81%82%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#ぽこあポケモン</a> <a href="https://twitter.com/hashtag/%E3%81%BD%E3%81%93%E3%83%9D%E3%82%B1?src=hash&amp;ref_src=twsrc%5Etfw">#ぽこポケ</a> <a href="https://t.co/mQuAEeUZeH">pic.twitter.com/mQuAEeUZeH</a></p>&mdash; 真冬 (@winter8636) <a href="https://twitter.com/winter8636/status/2036061094096367809?ref_src=twsrc%5Etfw">March 23, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+## 自動化
+
+### 水流方式
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/02WanTtH3YE?si=ysj5vGJFh56AyAOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 扉方式
+
+<Twitter tweetId="2036061094096367809" />
+
+:::warning[複数の家を並べる際の注意点]
+扉→センサー→扉→センサーと繋いでも、異なるセンサー間では動きが同期されません。  
+全てのセンサーを完全に同時に反応させる必要があります。
+:::
