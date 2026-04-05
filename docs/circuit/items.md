@@ -1,6 +1,7 @@
 ---
 title: 回路に有用なアイテム
 label: circuit
+sidebar_position: 3
 ---
 
 ## 電気不要

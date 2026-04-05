@@ -1,6 +1,7 @@
 ---
 title: クロック以外の回路
 label: circuit
+sidebar_position: 2
 ---
 
 ## デジタル数字のカウンター

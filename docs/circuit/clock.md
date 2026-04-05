@@ -1,6 +1,7 @@
 ---
 title: クロック回路
 label: circuit
+sidebar_position: 1
 ---
 
 ## 最初に発見されたとされている回路
