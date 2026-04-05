@@ -72,9 +72,10 @@ title: 自作のお家
 投稿内の画像が必要な場合は埋め込み、そうでない場合は引用がお勧めです。  
 :::
 例:  
-`[^1]`KYU `[@kyuphd](https://x.com/kyuphd/status/2033145701501485146)`  
-↓  
-[^1]KYU [@kyuphd](https://x.com/kyuphd/status/2033145701501485146)
+```
+最高効率の家[^1]  
+[^1]: KYU [Twitter@kyuphd](https://x.com/kyuphd/status/2033145701501485146)
+```
 
 ## 便利なコンポーネント
 
