@@ -25,8 +25,12 @@ title: ちらかすの仕様と自動化
 
 ## 自動化
 
-### 水流方式
+### 水流方式1
 液体があると、散らかされないため、定期的に水をON/OFFする必要がある。
+
+<Twitter tweetId="2033079264896332094" />
+
+### 水流方式2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/02WanTtH3YE?si=ysj5vGJFh56AyAOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
