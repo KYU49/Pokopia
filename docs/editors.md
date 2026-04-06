@@ -17,7 +17,7 @@ YouTubeやTwitterはもちろん、自分の投稿でも歓迎です。
 ## 編集可能な人
 管理者のKYU([Twitter](https://x.com/kyuphd))から招待された人はページ下部の「このページを編集」から編集が可能です。  
 :::tip[gitが使える場合]
-以下のコマンドでローカルでテストページをホスティングができます。
+以下のコマンドでローカルでテストページのホスティングができます。
 ```bash
 git clone https://github.com/kyu49/pokopia
 cd pokopia
