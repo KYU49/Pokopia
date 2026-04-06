@@ -15,7 +15,15 @@ YouTubeやTwitterはもちろん、自分の投稿でも歓迎です。
 :::
 
 ## 編集可能な人
-管理者のKYU([Twitter](https://x.com/kyuphd))から招待された人はページ下部の「このページを編集」から編集が可能です(gitが分かるならcloneしていただくのを推奨)。  
+管理者のKYU([Twitter](https://x.com/kyuphd))から招待された人はページ下部の「このページを編集」から編集が可能です。  
+:::tip[gitが使える場合]
+以下のコマンドでローカルでテストページをホスティングができます。
+```bash
+git clone https://github.com/kyu49/pokopia
+cd pokopia
+npm start
+```
+::::
 それ以外の場合でも、GitHubからpull requestを送っていただければ、こちらで精査したうえで追加、編集が可能です。  
 pull requestがよく分からない場合は[issues](https://github.com/KYU49/Pokopia/issues)に書き込んでいただければ、編集権限を持った人が暇な時に対応いたします。
 :::warning[注意]
