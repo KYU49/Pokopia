@@ -21,8 +21,6 @@ title: 畑の仕様と自動化
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Fsp-5SFedw?si=34crwwLNTeb8DHqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## さらさらいわの仕様
 
 * 5秒に1回、41マスの中から10マスが選ばれて乾燥する。
