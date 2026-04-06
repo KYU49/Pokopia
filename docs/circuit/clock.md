@@ -57,6 +57,10 @@ sidebar_position: 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NoVifxA5dlI?si=vyMm3SbpTqLUEQxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+:::warning[注意点]
+エリア移動のタイミングによっては、停止することがある。  
+:::
+
 ## 周波数を落とす方法
 水を一定時間流したい場合や、ある程度のインターバルで定期的に装置を動かしたい場合、普通のクロック回路ではON or OFFになる時間が短すぎる場合がある。マグマは水より動きが遅いが、一定以上遅くしようとすると、膨大な面積が必要になってしまう。以下では、最小限のスペースで周波数を落とす方法を紹介する。  
 
@@ -71,11 +75,6 @@ sidebar_position: 1
 ![遅延回路の解説](/img/delay-circuit.svg)
 
 絵で分かりづらかったら[**こちらを参照(YouTube)**](https://youtu.be/02WanTtH3YE?si=wbzK2CDnd-9SD5zb&t=283)。
-
-:::warning[注意点]
-エリア移動のタイミングによっては、停止することがある。  
-マグマを使っていると、ほとんど停止しない(今のところ停止したことはない)。
-:::
 
 
 ## クロック回路とさらさらいわ
@@ -132,6 +131,7 @@ sidebar_position: 1
 * ONの洗濯機とOFFの洗濯機を2つ並べ、センサーで両方を検知すれば、必ず一方はON → OFF、もう一方はOFF → ONになるため、毎回センサーが反応する。
 * センサーによって別の2つの洗濯機のON/OFFを切り替えると、洗濯機の動きがループする。
 * 結果として、毎フレーム(1/60秒)ごとにセンサーが反応する理論上最高周波数のクロック回路となる。
+
 :::warning[注意点]
 エリア移動によって停止することがある。  
 多数設置すると、ゲームの挙動がおかしくなる。
