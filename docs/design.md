@@ -12,6 +12,10 @@ title: デザイン
 
 <Twitter tweetId="2033847194219069892" />
 
+<Twitter tweetId="2034592907009970493" />
+
+<Twitter tweetId="2033366726801502537" />
+
 ## エモート全種類
 
 <Twitter tweetId="2040373383381348839" />
