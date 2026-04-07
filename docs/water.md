@@ -64,6 +64,16 @@ title: 水の仕様
 
 <Twitter tweetId="2040412072828342571" />
 
+## 水の優先度
+* 編集者がよく分かってないけど、泥水 > 海水 > 温泉 > 水らしい。
+
+<Twitter tweetId="2036285270992224364" />
+
+## 水の延長
+* 水は埋め直すことで挙動が変わる。
+
+<Twitter tweetId="2035004941811818876" />
+
 
 [^1]: じお [Twitter@echelon52a2](https://x.com/echelon52a2/status/2033588054657798518)
 [^2]: アルマ [Twitter@ar481uma](https://x.com/ar481uma/status/2037812518442406236)
