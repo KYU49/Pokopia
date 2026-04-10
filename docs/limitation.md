@@ -69,6 +69,22 @@ https://x.com/echelon52a2/status/2041506720602890326
 
 <Twitter tweetId="2038941049083834719" />
 
+** 視界の上限
+
+色が正常に表示されるのは５０マスまで
+それ以上はだんだん薄くなり７８マスで単色になる
+１７０マスから半透明になり１７５マスで見えなくなる
+
+<Twitter tweetId="2032970419486208044" />
+
+**マップ
+高さは上97マス下30。縦横のサイズや進入不可領域はマップにより異なる
+<Twitter tweetId="2032046599762034773" />
+<Twitter tweetId="2041027684449611993" />
+<Twitter tweetId="2032740863533789503" />
+<Twitter tweetId="2033764192596201526" />
+<Twitter tweetId="2033553697893171440" />
+
 
 [^1]: じお [Twitter@echelon52a2](https://x.com/i/status/2040366415203708959), める [Twitter@Mel_shota](https://x.com/Mel_shota/status/2041209475483451512)
 [^2]: じお [Twitter@echelon52a2](https://x.com/echelon52a2/status/2041353448277639360)
