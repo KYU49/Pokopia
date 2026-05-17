@@ -84,7 +84,7 @@ parker X @yessineyra
 * なお、アルバムから消しても、飾られている写真は消えない(置き換えたら二度と戻せないが)。
 
 ## キットハウス
-* 40軒。
+* 40軒。[^5]
 * ただし、立派な家のように家内でマップ切り替えが発生する家は2軒分にカウントされる。
 * 建築中の状態は14個まで(建築中なら風車なども含む)。
 
@@ -93,23 +93,19 @@ parker X @yessineyra
 
 
 ## コイン
-* 999999
-<Twitter tweetId="2051603817356304694" />
+* 999999[^6]
 
 ## 同時にとりひきが発生する数
 
-ポケセンやフレンドリィショップを含んで、同時に1エリア合計10台までしか、レジが稼働しない。  
+ポケセンやフレンドリィショップを含んで、同時に1エリア合計10台までしか、レジが稼働しない。[^7]  
 別のポケモンと取引したい場合は、ポケモンに2回話しかけ、「とりひきをやめる」でポケモンを入れ替える必要がある。  
 
-<Twitter tweetId="2038941049083834719" />
 
 ## 視界の上限
 
-色が正常に表示されるのは５０マスまで
-それ以上はだんだん薄くなり７８マスで単色になる
-１７０マスから半透明になり１７５マスで見えなくなる
-
-<Twitter tweetId="2032970419486208044" />
+色が正常に表示されるのは50マスまで。[^8]  
+それ以上はだんだん薄くなり78マスで単色になる。  
+170マスから半透明になり175マスで見えなくなる。  
 
 ## マップ
 高さは上97マス下30。縦横のサイズや進入不可領域はマップにより異なる
@@ -121,6 +117,10 @@ parker X @yessineyra
 
 
 [^1]: じお [Twitter@echelon52a2](https://x.com/i/status/2040366415203708959), める [Twitter@Mel_shota](https://x.com/Mel_shota/status/2041209475483451512)
-[^2]: じお [Twitter@echelon52a2](https://x.com/echelon52a2/status/2046787625764503828)
+[^2]: じお [Twitter@echelon52a2](https://x.com/echelon52a2/status/2046162742785245398), [Twitter@echelon52a2](https://x.com/echelon52a2/status/2046787625764503828)
 [^3]: じお [Twitter@echelon52a2](https://x.com/echelon52a2/status/2041353448277639360)
 [^4]: しょうと [Twitter@syoto_430_mario](https://x.com/syoto_430_mario/status/2041453410696974815) ※もっと前に発見している人が居る可能性高い。
+[^5]: こももなか [Twitter@komomonaka](https://x.com/komomonaka/status/2041087469219942853)
+[^6]: ライねる [Twitter@Laioxy](https://x.com/komomonaka/status/2051603817356304694)
+[^7]: ポケモン交換用等 [Twitter@jgc_z7](https://x.com/jgc_z7/status/2038941049083834719)
+[^8]: たいち [@taichi_a0](https://x.com/taichi_a0/status/2032970419486208044)
