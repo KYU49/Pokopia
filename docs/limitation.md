@@ -7,13 +7,12 @@ title: 色々な上限
 じお X @echelon52a2 (ほとんどがこの方の調査結果)  
 * https://x.com/echelon52a2/status/2040380831261421742  
 * https://x.com/echelon52a2/status/2041506720602890326  
-↓すごくまとまってる  
 * https://x.com/echelon52a2/status/2046790199322312861  
+↑すごくまとまってる  
 
 parker X @yessineyra  
-↓すごくまとまってる 
 * https://x.com/yessineyra/status/2052013509278380233  
-
+↑すごくまとまってる 
 
 ## 電気関連
 | 種類 | 最大数 |
@@ -90,8 +89,12 @@ parker X @yessineyra
 * 建築中の状態は14個まで(建築中なら風車なども含む)。
 
 ## ラグ・ポスター
-* それぞれ100枚
+* それぞれ100枚ずつ
 
+
+## コイン
+* 999999
+<Twitter tweetId="2051603817356304694" />
 
 ## 同時にとりひきが発生する数
 
