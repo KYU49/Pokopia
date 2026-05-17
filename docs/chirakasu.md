@@ -87,5 +87,11 @@ title: ちらかすの仕様と自動化
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yGGpIHWXq6I?si=xeVlZXjwj6TY8cKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+### 水流方式3
+効率がそこそこ高く、安定性が非常に高いため、管理人KYU推奨の方法。
+前述のように、キットの家によって表示数制限を緩和しつつ、複雑な扉での輸送を避けることができる。  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-SMVC0Kwng?si=EB0gskM1wW9fmIe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 [^1]: ななぱーせんと [Twitter@nanapercent788](https://x.com/nanapercent788/status/2033079264896332094)
 [^2]: ポケモン交換用等 [Twitter@jgc_z7](https://x.com/jgc_z7/status/2037532479301836926)
