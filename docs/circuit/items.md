@@ -1,7 +1,7 @@
 ---
 title: 回路に有用なアイテム
 label: circuit
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 特殊な動きをするアイテムをまとめてある。

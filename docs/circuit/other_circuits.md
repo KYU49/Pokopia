@@ -1,7 +1,7 @@
 ---
 title: クロック以外の回路
 label: circuit
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 AND, OR, NOR, NANDなど開発されている方もいるが、KYUが詳しくないため、まとめられていない。  
