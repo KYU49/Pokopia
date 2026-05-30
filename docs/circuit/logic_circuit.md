@@ -14,6 +14,9 @@ sidebar_position: 2
 
 * 電源の有無
 * 動作中／停止中
+### 基本動作
+
+![信号出力条件](/img/Bashii/SignalOutputConditions.jpeg)
 * 窓の開閉
 * 水の性質
 
