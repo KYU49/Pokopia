@@ -1,3 +1,5 @@
+
+
 ---
 title: 論理回路など（作成中）
 label: circuit
@@ -14,9 +16,10 @@ sidebar_position: 2
 
 * 電源の有無
 * 動作中／停止中
-![信号出力条件](/img/Bashii/SignalOutputConditions.jpeg)
+![電子機器信号出力条件](/img/Bashii/SignalOutputConditions.jpeg)
 * 窓の開閉
 * 水の性質
+![水窓信号出力条件と水流挙動](/img/Bashii/SignalOutputConditions.jpeg)
 
 ## 作成した回路
 
