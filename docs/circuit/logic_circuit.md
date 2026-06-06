@@ -167,7 +167,7 @@ sidebar_position: 2
 
 #### 結果
 
-<Twitter tweetId="22057061378083676406" />
+<Twitter tweetId="2057061378083676406" />
 
 
 ### 押した回数で花火の演出が変わる装置
