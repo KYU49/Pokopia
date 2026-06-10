@@ -39,6 +39,7 @@ import DocCardList from '@theme/DocCardList';
 
 * **KYU** (X: [@kyuphd](https://x.com/kyuphd)) - 本サイト作成・管理, クロック回路全般の発見者
 * **あみにし** (X: [@aminisi](https://x.com/aminisi)) - 高速移動で収穫できる畑の考案者
+* **ばっしー** (X: [@Bashii1646](https://x.com/Bashii1646/)) - 論理回路を大量に考案・検証されている方
 * **あなたも参加しませんか？**: 
   - 本サイトはGitHubで公開されています。修正や追加の提案（Pull Request）を歓迎します。
   - よく分からない場合は[issues](https://github.com/KYU49/Pokopia/issues)に掲示板のようなものがあります。
