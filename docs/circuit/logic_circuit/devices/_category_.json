@@ -1,0 +1,10 @@
+{
+  "label": "回路を利用した設備",
+  "position": 8,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "回路を利用した設備の一覧です。"
+  }
+}

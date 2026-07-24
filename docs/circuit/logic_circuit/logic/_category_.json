@@ -1,0 +1,10 @@
+{
+  "label": "基礎論理回路",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "基礎論理回路の一覧です。"
+  }
+}

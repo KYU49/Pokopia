@@ -1,0 +1,10 @@
+{
+  "label": "選択・順序制御",
+  "position": 5,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "選択・順序制御の一覧です。"
+  }
+}

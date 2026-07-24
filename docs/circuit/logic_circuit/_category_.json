@@ -1,0 +1,10 @@
+{
+  "label": "ぽこあ回路図鑑",
+  "position": 2,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "circuit/logic_circuit/index"
+  }
+}

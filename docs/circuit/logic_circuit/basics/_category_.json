@@ -1,0 +1,10 @@
+{
+  "label": "基本仕様",
+  "position": 2,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "基本仕様の一覧です。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "信号制御回路",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "信号制御回路の一覧です。"
+  }
+}
