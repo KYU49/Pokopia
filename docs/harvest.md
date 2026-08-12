@@ -4,7 +4,7 @@ title: 畑の仕様と半自動化
 ---
 
 ## 畑の半自動化
-* 小麦以外の畑の作物はさらさらいわで枯らすことで、地面に落ちる。
+* 小麦・スイカ・うみぶどう[^4]以外の畑の作物はさらさらいわで枯らすことで、地面に落ちる。
 :::warning[畑は完全には自動化できない]
 * 畑の作物はしわけるで回収されない。
 * エリア移動で消えてしまう。  
@@ -51,3 +51,4 @@ title: 畑の仕様と半自動化
 [^1]: https://www.reddit.com/r/Pokopia/comments/1s15twd/i_made_horizontal_fast_travel/
 [^2]: いのせ [Twitter@innocentroad](https://x.com/innocentroad/status/2036034534131872017)
 [^3]: KYU [Twitter@kyuphd](https://x.com/kyuphd/status/2036056447147229642)
+[^4]: sue445 [Twitter@sue445](https://x.com/sue445/status/2085154449488740840)
